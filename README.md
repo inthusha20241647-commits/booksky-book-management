@@ -13,7 +13,7 @@ The application allows users to add books with a title, author, and description,
 ### 🖥️ Desktop View
 
 <div align="center">
-  <img src="./images/desktop.png" alt="Booksky Desktop View" width="800">
+  <img src="./screenshot.png" alt="Booksky Desktop View" width="800">
 </div>
 
 ## ✨ Features
