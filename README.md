@@ -38,6 +38,9 @@ Booksky/
 2. Open the project in VS Code.
 3. Open `index.html` using Live Server or directly in a web browser.
 
+## Live website link
+https://inthusha20241647-commits.github.io/booksky-book-management/
+
 No additional installation is required.
 
 ### Add a Book
