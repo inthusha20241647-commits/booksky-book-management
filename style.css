@@ -127,3 +127,60 @@ body {
   color: white;
   font-weight: bold;
 }
+
+@media (max-width: 768px) {
+  .book-container {
+    box-sizing: border-box;
+    width: calc(50% - 20px);
+    margin: 10px;
+  }
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 12px;
+  }
+
+  .book-container {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  .popup-overlay {
+    position: fixed;
+    height: 100vh;
+  }
+
+  .popup-box {
+    box-sizing: border-box;
+    width: calc(100% - 32px);
+    max-height: calc(100vh - 32px);
+    padding: 24px;
+    overflow-y: auto;
+    position: fixed;
+    top: 50%;
+    left: 16px;
+    transform: translateY(-50%);
+  }
+
+  .popup-box input,
+  .popup-box textarea {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 5px 0;
+    font-size: 16px;
+  }
+
+  .add-btn {
+    right: 16px;
+    bottom: 16px;
+    padding: 12px 20px;
+  }
+}
+
+@media (max-width: 360px) {
+  .popup-box {
+    padding: 18px;
+  }
+}
