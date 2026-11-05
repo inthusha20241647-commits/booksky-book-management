@@ -14,12 +14,6 @@ Booksky is a simple and interactive Book Management Web Application built using 
   <img src="./Screenshot.png" alt="Booksky Desktop View" width="850">
 </p>
 
-### 📱 Mobile View
-
-<p align="center">
-  <img src="./images/mobile.png" alt="Booksky Mobile View" width="350">
-</p>
-
 ## ✨ Features
 
 - 📖 **Book Display:** Displays books with their title, author, and description.
