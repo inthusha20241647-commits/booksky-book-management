@@ -45,9 +45,6 @@ Booksky is a simple and interactive Book Management Web Application built using 
 booksky-book-management/
 │
 ├── Screenshot.png
-├── images/
-│   └── mobile.png
-│
 ├── index.html
 ├── style.css
 ├── script.js
